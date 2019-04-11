@@ -1,0 +1,635 @@
+Last Name,First Name,License #,Expire ,Issue,Standing,City,State
+Alison,Otonya,95302R,3/31/15,,good,Vancouver,WA
+Ames,Sara,11092R,3/31/15,,good,Las Cruces,NM
+Andrew,Martha,96368R,3/31/15,,good,Ranchos de Taos,NM
+Arnold,Lynn,89204R,3/31/16,,good,Santa Teresa,NM
+Bender,Susan,12103R,3/31/15,,good,Orting,WA
+Black,Merna,96366R,3/31/16,,good,Carlsbad,NM
+Bolle,Tanja,95284R,3/31/16,,good,Santa Fe,NM
+Bourdeau,Rifka Madrona,09067R,3/31/15,,good,Taos,NM
+Brown,Bridgette,13114A,12/31/15,,good,Odessa,TX
+Camden,Kelly,11089R,3/31/15,,good,Albuquerque,NM
+Campili Stauss,Elena,11093R,3/31/16,,good,Santa Fe,NM
+Cassidy,Elizabeth,96307R,3/31/16,,good,Santa Fe,NM
+Cockrell,Dawn,04001R,3/31/16,,good,Odessa,TX
+Cuthbertson,Hannah,12105R,3/31/15,,good,Winston Salem,NC
+Cuthbertson,Ruth M.,12104R,3/31/15,,good,Winston Salem,NC
+Darling,Mary,03445R,3/31/15,,good,El Paso,TX
+Dean,Cynthia Maria,13108A,3/31/15,,good,Tor C,NM
+Duncan,Amy,00399R,3/31/15,,good,Gila,NM
+Essenmacher,Joy L.,10078R,3/31/16,,good,Los Lunas,NM
+Ettien,A'Maya,10077R,3/31/16,,good,El Paso,TX
+Figurski,Kiersten,00405R,3/31/16,,good,Taos,NM
+Frazer,Joy P.,08050R,3/31/16,,good,Durango,CO
+Frechette-Gutfreund,Jessica,09065R,3/31/15,,good,Santa Fe,NM
+Galjour,Reina,09066R,3/31/15,,good,Chapel Hill,NC
+Gray,Dianne,82044R,3/31/15,,good,La Grande,OR
+Hagan,Angie,02431R,3/31/15,,good,El Paso,TX
+Haggard,Myriah,10075R,3/31/16,,good,Santa Fe,NM
+Harris,Diane,13112R,3/31/15,,good,Rio Rancho,NM
+Hill,Andrea,12098R,3/31/16,,good,Albuquerque,NM
+Jacobus,Christine,03443R,3/31/16,,good,Santa Fe,NM
+Jah,Cassaundra R.,10076R,3/31/16,,good,Cedar Crest,NM
+Johnson,Judy,96351R,3/31/15,,good,Omaha,NE
+Johnstun,Julie A.,09063R,3/31/15,,good,Rio Rancho,NM
+Kaeck,Dorothy,13115R,3/31/15,,good,Ranchos De Taos,NM
+Kaley,Deborah,82045R,3/31/16,,good,El Paso,TX
+Keller,Deborah,00401R,3/31/16,,good,Santa Fe,NM
+Kenmore,Alana Joy,11088R,3/31/15,,good,El Paso,TX
+Khalsa,Seva,88175R,3/31/15,,good,Santa Fe,NM
+Kielpinski,Denise,01417R,3/31/16,,good,Rio Rancho,NM
+Koshewa,Connie,04008R,3/31/16,,good,Albuquerque,NM
+LeMone,Kathleen,07029R,3/31/16,,good,Las Cruces,NM
+Ludwig,Ramona Ellen,04004R,3/31/15,,good,Santa Fe,NM
+Lynch,Jillian Angier,09064R,3/31/15,,good,Carmel,CA
+Maillis,Nicole,09060R,3/31/15,,good,Taos,NM
+Mann,Sarah,13111A,3/31/15,,good,Las Cruces,NM
+Marcus,Glenna B.,13106A,3/31/15,,good,Ohkay Owingeh,NM
+McKay,Jaymi,02429R,3/31/16,,good,Albuquerque,NM
+McNeil,Krystina,94266R,3/31/16,,good,Vancouver,WA
+Moore,Alice C.,11085R,3/31/15,,good,El Paso,TX
+Nelson,Juanita,84100R,3/31/15,,good,Durango,CO
+Nighswander,Carole,07028R,3/31/16,,good,Durango,CO
+Norris,Joan,95297R,3/31/15,,good,San Cristobal,NM
+Passalacqua,Sonja,96338R,3/31/16,,good,Santa Fe,NM
+Peixinho,Michelle,03455R,3/31/16,,good,Espanola,NM
+Penwell,Amanda,95307R,3/31/15,,good,Paso Robles,CA
+Penwell,Vicki,83069R,3/31/15,,good,Paso Robles,CA
+Penwell,Ian,14117R,3/31/16,,good,Boise,ID
+Pepper,Barbara,82060R,3/31/16,,good,Albuquerque,NM
+Quigley-Trejo,Karen,11082A,3/31/15,,good,Albuquerque,NM
+Rische,Heather,02434R,3/31/16,,good,Monticello,NM
+Rose,Rebecca,09055R,3/31/15,,good,Albuquerque,NM
+Rotondi,Anne,13113R,3/31/15,,good,Ignacio,CO
+Self,Louise A.,11086A,9/30/15,,good,Albuquerque,NM
+Shaw,Kathryn,96320R,3/31/16,,good,Las Cruces,NM
+Silvey,Salem,13116R,3/31/15,,good,Amarillo,TX
+Simmons,Terri,00408R,3/31/16,,good,Albuquerque,NM
+VanMersbergen,Tiffany,11083A,3/31/15,,good,Albuquerque,NM
+West,Jennifer,93255R,3/31/15,,good,Albuquerque,NM
+York,Consuelo,08049R,3/31/16,,good,El Paso,TX
+Alison,Otonya,95302R,3/31/15,10/1/95,good,Vancouver,WA
+Ames,Sara,11092R,3/31/15,12/1/11,good,Las Cruces,NM
+Andrew,Martha,96368R,3/31/15,9/1/98,good,Ranchos de Taos,NM
+Arnold,Lynn,89204R,3/31/16,9/25/89,good,Santa Teresa,NM
+Bender,Susan,12103R,3/31/15,11/9/12,good,Orting,WA
+Black,Merna,96366R,3/31/16,8/1/98,good,Carlsbad,NM
+Bolle,Tanja,95284R,3/31/16,2/7/95,good,Santa Fe,NM
+Bourdeau,Rifka Madrona,09067R,3/31/15,12/28/09,good,Taos,NM
+Brown,Bridgette,13114A,12/31/15,,good,Odessa,TX
+Camden,Kelly,11089R,3/31/15,9/23/11,good,Albuquerque,NM
+Campili Stauss,Elena,11093R,3/31/16,12/29/11,good,Santa Fe,NM
+Cassidy,Elizabeth,96307R,3/31/16,3/1/02,good,Santa Fe,NM
+Cockrell,Dawn,04001R,3/31/16,2/2/04,good,Odessa,TX
+Cuthbertson,Hannah,12105R,3/31/15,11/9/12,good,Winston Salem,NC
+Cuthbertson,Ruth M.,12104R,3/31/15,11/9/12,good,Winston Salem,NC
+Darling,Mary,03445R,3/31/15,5/15/03,good,El Paso,TX
+Dean,Cynthia Maria,13108A,3/31/15,,good,Tor C,NM
+Duncan,Amy,00399R,3/31/15,4/20/00,good,Gila,NM
+Essenmacher,Joy L.,10078R,3/31/16,12/10/10,good,Los Lunas,NM
+Ettien,A'Maya,10077R,3/31/16,10/19/10,good,El Paso,TX
+Figurski,Kiersten,00405R,3/31/16,4/1/02,good,Taos,NM
+Frazer,Joy P.,08050R,3/31/16,12/9/08,good,Durango,CO
+Frechette-Gutfreund,Jessica,09065R,3/31/15,12/11/09,good,Santa Fe,NM
+Galjour,Reina,09066R,3/31/15,12/11/09,good,Chapel Hill,NC
+Gray,Dianne,82044R,3/31/15,3/17/82,good,La Grande,OR
+Hagan,Angie,02431R,3/31/15,8/9/02,good,El Paso,TX
+Haggard,Myriah,10075R,3/31/16,10/21/10,good,Santa Fe,NM
+Harris,Diane,13112R,3/31/15,12/23/13,good,Rio Rancho,NM
+Hill,Andrea,12098R,3/31/16,6/29/12,good,Albuquerque,NM
+Jacobus,Christine,03443R,3/31/16,5/9/06,good,Santa Fe,NM
+Jah,Cassaundra R.,10076R,3/31/16,11/19/10,good,Cedar Crest,NM
+Johnson,Judy,96351R,3/31/15,11/1/97,good,Omaha,NE
+Johnstun,Julie A.,09063R,3/31/15,9/30/09,good,Rio Rancho,NM
+Kaeck,Dorothy,13115R,3/31/15,12/27/13,good,Ranchos De Taos,NM
+Kaley,Deborah,82045R,3/31/16,3/22/82,good,El Paso,TX
+Keller,Deborah,00401R,3/31/16,9/27/02,good,Santa Fe,NM
+Kenmore,Alana Joy,11088R,3/31/15,9/23/11,good,El Paso,TX
+Kielpinski,Denise,01417R,3/31/16,12/7/04,good,Rio Rancho,NM
+Koshewa,Connie,04008R,3/31/16,8/27/04,good,Albuquerque,NM
+LeMone,Kathleen,07029R,3/31/16,12/13/06,good,Las Cruces,NM
+Ludwig,Ramona Ellen,04004R,3/31/15,4/12/04,good,Santa Fe,NM
+Lynch,Jillian Angier,09064R,3/31/15,9/30/09,good,Carmel,CA
+Maillis,Nicole,09060R,3/31/15,7/20/09,good,Taos,NM
+Mann,Sarah,13111A,3/31/15,,good,Las Cruces,NM
+Marcus,Glenna B.,13106A,3/31/15,,good,Ohkay Owingeh,NM
+McKay,Jaymi,02429R,3/31/16,9/24/04,good,Albuquerque,NM
+McNeil,Krystina,94266R,3/31/16,5/23/93,good,Vancouver,WA
+Moore,Alice C.,11085R,3/31/15,7/8/11,good,El Paso,TX
+Nelson,Juanita,84100R,3/31/15,6/26/85,good,Durango,CO
+Nighswander,Carole,07028R,3/31/16,11/29/06,good,Durango,CO
+Norris,Joan,95297R,3/31/15,12/21/96,good,San Cristobal,NM
+Passalacqua,Sonja,96338R,3/31/16,3/1/97,good,Santa Fe,NM
+Peixinho,Michelle,03455R,3/31/16,1/4/08,good,Espanola,NM
+Penwell,Amanda,95307R,3/31/15,10/1/95,good,Paso Robles,CA
+Penwell,Vicki,83069R,3/31/15,1/25/83,good,Paso Robles,CA
+Penwell,Ian,14117R,3/31/16,3/10/14,good,Boise,ID
+Pepper,Barbara,82060R,3/31/16,3/31/90,good,Albuquerque,NM
+Quigley-Trejo,Karen,11082A,3/31/15,3/31/13,good,Albuquerque,NM
+Rische,Heather,02434R,3/31/16,12/4/02,good,Monticello,NM
+Rose,Rebecca,09055R,3/31/15,3/23/09,good,Albuquerque,NM
+Rotondi,Anne,13113R,3/31/15,12/9/15,good,Ignacio,CO
+Self,Louise A.,11086A,9/30/15,,good,Albuquerque,NM
+Shaw,Kathryn,96320R,3/31/16,4/1/98,good,Las Cruces,NM
+Silvey,Salem,13116R,3/31/15,12/27/13,good,Amarillo,TX
+Simmons,Terri,00408R,3/31/16,12/5/00,good,Albuquerque,NM
+VanMersbergen,Tiffany,11083A,3/31/15,,good,Albuquerque,NM
+West,Jennifer,93255R,3/31/15,5/1/93,good,Albuquerque,NM
+Alison,Otonya,95302R,3/31/15,10/1/95,good,Vancouver,WA
+Ames,Sara,11092R,3/31/15,12/1/11,good,Las Cruces,NM
+Andrew,Martha,96368R,3/31/15,9/1/98,good,Taos,NM
+Arnold,Lynn,89204R,3/31/16,9/25/89,good,Santa Teresa,NM
+Bender,Susan,12103R,3/31/15,11/9/12,good,Orting,WA
+Black,Merna,96366R,3/31/16,8/1/98,good,Carlsbad,NM
+Bolle,Tanja,95284R,3/31/16,2/7/95,good,Santa Fe,NM
+Bourdeau,Rifka Madrona,09067R,3/31/15,12/28/09,good,Taos,NM
+Camden,Kelly,11089R,3/31/15,9/23/11,good,Albuquerque,NM
+Campili Stauss,Elena,11093R,3/31/16,12/29/11,good,Santa Fe,NM
+Cassidy,Elizabeth,96307R,3/31/16,3/1/02,good,Santa Fe,NM
+Cockrell,Dawn,04001R,3/31/16,2/2/04,good,Odessa,TX
+Cuthbertson,Ruth M.,12104R,3/31/15,11/9/12,good,Winston Salem,NC
+Cuthbertson,Hannah,12105R,3/31/15,11/9/12,good,Winston Salem,NC
+Darling,Mary,03445R,3/31/15,5/15/03,good,El Paso,TX
+Duncan,Amy,00399R,3/31/15,4/20/00,good,Gila,NM
+Essenmacher,Joy L.,10078R,3/31/16,12/10/10,good,Los Lunas,NM
+Ettien,A'Maya,10077R,3/31/16,10/19/10,good,El Paso,TX
+Figurski,Kiersten,00405R,3/31/16,4/1/02,good,Taos,NM
+Frazer,Joy P.,08050R,3/31/16,12/9/08,good,Durango,CO
+Frechette,Jessica,09065R,3/31/15,12/11/09,good,Santa Fe,NM
+Galjour,Reina,09066R,3/31/15,12/11/09,good,Chapel Hill,NC
+Gray,Dianne,82044R,3/31/15,3/17/82,good,La Grande,OR
+Hagan,Angie,02431R,3/31/15,8/9/02,good,El Paso,TX
+Haggard,Myriah,10075R,3/31/16,10/21/10,good,Santa Fe,NM
+Harris,Diane,13112R,3/31/15,12/23/13,good,Rio Rancho,NM
+Hill,Andrea,12098R,3/31/16,6/29/12,good,Albuquerque,NM
+Jacobus,Christine,03443R,3/31/16,5/9/06,good,Santa Fe,NM
+Jah,Cassaundra,10076R,3/31/16,11/19/10,good,Cedar Crest,NM
+Johnson,Judy,96351R,3/31/15,11/1/97,good,Omaha,NE
+Johnstun,Julie A.,09063R,3/31/15,9/30/09,good,Rio Rancho,NM
+Kaeck,Dorothy,13115R,3/31/15,12/27/13,good,Taos,NM
+Kaley,Deborah,82045R,3/31/16,3/22/82,good,El Paso,TX
+Keller,Deborah,00401R,3/31/16,9/27/02,good,Santa Fe,NM
+Kenmore,Alana Joy,11088R,3/31/15,9/23/11,good,El Paso,TX
+Khalsa,Seva,88175R,3/31/15,8/5/87,good,Santa Fe,NM
+Kielpinski,Denise,01417R,3/31/16,12/7/04,good,Rio Rancho,NM
+Koshewa,Connie,04008R,3/31/16,8/27/04,good,Albuquerque,NM
+LeBaron,Adela,14119R,3/31/16,4/21/14,good,El Paso,TX
+LeMone,Kathleen,07029R,3/31/16,12/13/06,good,Las Cruces,NM
+Ludwig,Ramona Ellen,04004R,3/31/15,4/12/04,good,Santa Fe,NM
+Lynch,Jillian Angier,09064R,3/31/15,9/30/09,good,Carmel,CA
+Maillis,Nicole,09060R,3/31/15,7/20/09,good,Taos,NM
+McKay,Jaymi,02429R,3/31/16,9/24/04,good,Albuquerque,NM
+McNeil,Krystina,94266R,3/31/16,5/23/93,good,Vancouver,WA
+Moore,Alice C.,11085R,3/31/15,7/8/11,good,El Paso,TX
+Nelson,Juanita,84100R,3/31/15,6/26/85,good,Durango,CO
+Nighswander,Carole,07028R,3/31/16,11/29/06,good,Durango,CO
+Norris,Joan,95297R,3/31/15,12/21/96,good,San Cristobal,NM
+Overton,Hilary,01416R,3/31/15,2/18/03,good,El Paso,TX
+Passalacqua,Sonja,96338R,3/31/16,3/1/97,good,Santa Fe,NM
+Peixinho,Michelle,03455R,3/31/16,1/4/08,good,Espanola,NM
+Penwell,Vicki,83069R,3/31/15,1/25/83,good,Paso Robles,CA
+Penwell,Ian,14117R,3/31/16,3/10/14,good,Boise,ID
+Penwell,Amanda,95307R,3/31/15,10/1/95,good,Paso Robles,CA
+Pepper,Barbara,82060R,3/31/16,3/31/90,good,Albuquerque,NM
+Raphaelson,Sheri,92229R,3/31/16,3/1/92,good,Espanola,NM
+Rische,Heather,02434R,3/31/16,12/4/02,good,Monticello,NM
+Rose,Rebecca,09055R,3/31/15,3/23/09,good,Albuquerque,NM
+Rotondi,Anne,13113R,3/31/15,12/9/15,good,Ignacio,CO
+Newsham,Eva Marie,14124R,3/31/16,7/22/14,good,Cheney,WA
+Schochet,Julie,96367R,3/31/16,9/1/98,good,El Prado,NM
+Self,Louise A.,11086A,3/31/16,4/21/14,good,Albuquerque,NM
+Shaw,Kathryn,96320R,3/31/16,4/1/98,good,Las Cruces,NM
+Silvey,Salem,13116R,3/31/15,12/27/13,good,Amarillo,TX
+Simmons,Terri,00408R,3/31/16,12/5/00,good,Albuquerque,NM
+Stern,Abigail,14122R,3/31/16,5/27/14,good,Stuarts Draft,VA
+West,Jennifer,93255R,3/31/15,5/1/93,good,Albuquerque,NM
+York,Consuelo,08049R,3/31/16,8/7/08,good,El Paso,TX
+Borrego,Rebecca,14118R,3/31/16,2/11/14,good,Taos,NM
+Brown,Bridgette,13114A,12/31/15,,good,Odessa,TX
+Dean,Cynthia Maria,13108A,3/31/15,8/15/13,good,T or C,NM
+Mann,Sarah,13111A,3/31/15,,good,Las Cruces,NM
+Marcus,Glenna B.,13106A,3/31/15,,good,Ohkay Owingeh,NM
+Quigley-Trejo,Karen,11082A,3/31/15,3/31/13,good,Albuquerque,NM
+Tsosie,Linda,14121A,5/5/16,5/5/14,good,Santa Fe,NM
+VanMersbergen,Tiffany,11083A,3/31/15,,good,Albuquerque,NM
+Alison,Otonya,95302R,3/31/15,10/1/95,good,Vancouver,WA
+Ames,Sara,11092R,3/31/15,12/1/11,good,Las Cruces,NM
+Andrew,Martha,96368R,3/31/15,9/1/98,good,Taos,NM
+Arnold,Lynn,89204R,3/31/16,9/25/89,good,Santa Teresa,NM
+Bender,Susan,12103R,3/31/15,11/9/12,good,Orting,WA
+Black,Merna,96366R,3/31/16,8/1/98,good,Carlsbad,NM
+Bolle,Tanja,95284R,3/31/16,2/7/95,good,Santa Fe,NM
+Borrego,Rebecca,14118R,3/31/16,2/11/14,good,Taos,NM
+Bourdeau,Rifka Madrona,09067R,3/31/15,12/28/09,good,Taos,NM
+Brown,Bridgette,13114A,12/31/15,,good,Odessa,TX
+Camden,Kelly,11089R,3/31/15,9/23/11,good,Albuquerque,NM
+Campili Stauss,Elena,11093R,3/31/16,12/29/11,good,Santa Fe,NM
+Cassidy,Elizabeth,96307R,3/31/16,3/1/02,good,Santa Fe,NM
+Cockrell,Dawn,04001R,3/31/16,2/2/04,good,Odessa,TX
+Cuthbertson,Ruth M.,12104R,3/31/15,11/9/12,good,Winston Salem,NC
+Cuthbertson,Hannah,12105R,3/31/15,11/9/12,good,Winston Salem,NC
+Darling,Mary,03445R,3/31/15,5/15/03,good,El Paso,TX
+Dean,Cynthia Maria,13108A,3/31/15,8/15/13,good,T or C,NM
+Duncan,Amy,00399R,3/31/15,4/20/00,good,Gila,NM
+Essenmacher,Joy L.,10078R,3/31/16,12/10/10,good,Los Lunas,NM
+Ettien,A'Maya,10077R,3/31/16,10/19/10,good,El Paso,TX
+Figurski,Kiersten,00405R,3/31/16,4/1/02,good,Taos,NM
+Frazer,Joy P.,08050R,3/31/16,12/9/08,good,Durango,CO
+Frechette-,,,,,,,
+Gutfreund,Jessica,09065R,3/31/15,12/11/09,good,Santa Fe,NM
+Galjour,Reina,09066R,3/31/15,12/11/09,good,Chapel Hill,NC
+Gray,Dianne,82044R,3/31/15,3/17/82,good,La Grande,OR
+Hagan,Angie,02431R,3/31/15,8/9/02,good,El Paso,TX
+Haggard,Myriah,10075R,3/31/16,10/21/10,good,Santa Fe,NM
+Harris,Diane,13112R,3/31/15,12/23/13,good,Rio Rancho,NM
+Hill,Andrea,12098R,3/31/16,6/29/12,good,Albuquerque,NM
+Jacobus,Christine,03443R,3/31/16,5/9/06,good,Santa Fe,NM
+Jah,Cassaundra R.,10076R,3/31/16,11/19/10,good,Cedar Crest,NM
+Johnson,Judy,96351R,3/31/15,11/1/97,good,Omaha,NE
+Johnstun,Julie A.,09063R,3/31/15,9/30/09,good,Rio Rancho,NM
+Kaeck,Dorothy,13115R,3/31/15,12/27/13,good,Taos,NM
+Kaley,Deborah,82045R,3/31/16,3/22/82,good,El Paso,TX
+Keller,Deborah,00401R,3/31/16,9/27/02,good,Santa Fe,NM
+Kenmore,Alana Joy,11088R,3/31/15,9/23/11,good,El Paso,TX
+Khalsa,Seva,88175R,3/31/15,8/5/87,good,Santa Fe,NM
+Kielpinski,Denise,01417R,3/31/16,12/7/04,good,Rio Rancho,NM
+Koshewa,Connie,04008R,3/31/16,8/27/04,good,Albuquerque,NM
+LeBaron,Adela,14119R,3/31/16,4/21/14,good,El Paso,TX
+LeMone,Kathleen,07029R,3/31/16,12/13/06,good,Las Cruces,NM
+Loleit,Linda,14121A,5/5/16,5/5/14,good,Santa Fe,NM
+Ludwig,Ramona Ellen,04004R,3/31/15,4/12/04,good,Santa Fe,NM
+Lynch,Jillian Angier,09064R,3/31/15,9/30/09,good,Carmel,CA
+Maillis,Nicole,09060R,3/31/15,7/20/09,good,Taos,NM
+Mann,Sarah,13111A,3/31/15,good,,Las Cruces,NM
+Marcus,Glenna B.,13106A,3/31/15,good,,Ohkay Owingeh,NM
+McKay,Jaymi,02429R,3/31/16,9/24/04,good,Albuquerque,NM
+McNeil,Krystina,94266R,3/31/16,5/23/93,good,Vancouver,WA
+Moore,Alice C.,11085R,3/31/15,7/8/11,good,El Paso,TX
+Nelson,Juanita,84100R,3/31/15,6/26/85,good,Durango,CO
+Nighswander,Carole,07028R,3/31/16,11/29/06,good,Durango,CO
+Norris,Joan,95297R,3/31/15,12/21/96,good,San Cristobal,NM
+Overton,Hilary,01416R,3/31/15,2/18/03,good,El Paso,TX
+Passalacqua,Sonja,96338R,3/31/16,3/1/97,good,Santa Fe,NM
+Peixinho,Michelle,03455R,3/31/16,1/4/08,good,Espanola,NM
+Penwell,Amanda,95307R,3/31/15,10/1/95,good,Paso Robles,CA
+Penwell,Vicki,83069R,3/31/15,1/25/83,good,Paso Robles,CA
+Penwell,Ian,14117R,3/31/16,3/10/14,good,Boise,ID
+Pepper,Barbara,82060R,3/31/16,3/31/90,good,Albuquerque,NM
+Quigley-Trejo,Karen,11082A,3/31/15,3/31/13,good,Albuquerque,NM
+Raphaelson,Sheri,92229R,3/31/16,3/1/92,good,Espanola,NM
+Rische,Heather,02434R,3/31/16,12/4/02,good,Monticello,NM
+Rose,Rebecca,09055R,3/31/15,3/23/09,good,Albuquerque,NM
+Rotondi,Anne,13113R,3/31/15,12/9/15,good,Ignacio,CO
+Schochet,Julie,96367R,3/31/16,9/1/98,good,El Prado,NM
+Self,Louise A.,11086A,3/31/16,4/21/14,good,Albuquerque,NM
+Shaw,Kathryn,96320R,3/31/16,4/1/98,good,Las Cruces,NM
+Silvey,Salem,13116R,3/31/15,12/27/13,good,Amarillo,TX
+Simmons,Terri,00408R,3/31/16,12/5/00,good,Albuquerque,NM
+Stern,Abigail,14122R,3/31/16,5/27/14,good,Stuarts Draft,VA
+VanMersbergen,Tiffany,11083A,3/31/15,,good,Albuquerque,NM
+West,Jennifer,93255R,3/31/15,5/1/93,good,Albuquerque,NM
+Williams,Michelle Louise,14123A,3/31/16,6/3/14,good,Taos,NM
+York,Consuelo,08049R,3/31/16,8/7/08,good,El Paso,TX
+Alison,Otonya,95302R,3/31/15,10/1/95,good,Vancouver,WA
+Ames,Sara,11092R,3/31/15,12/1/11,good,Las Cruces,NM
+Andrew,Martha,96368R,3/31/15,9/1/98,good,Taos,NM
+Arnold,Lynn,89204R,3/31/16,9/25/89,good,Santa Teresa,NM
+Bender,Susan,12103R,3/31/15,11/9/12,good,Orting,WA
+Black,Merna,96366R,3/31/16,8/1/98,good,Carlsbad,NM
+,Rebekah,,,,,,
+Blythe,Lynn,14130R,3/31/16,11/17/14,good,Ignacio,CO
+Bolle,Tanja,95284R,3/31/16,2/7/95,good,Santa Fe,NM
+Borrego,Rebecca,14118A,3/31/16,4/23/14,good,Taos,NM
+,Rifka,,,,,,
+Bourdeau,Madrona,09067R,3/31/15,12/28/09,good,Taos,NM
+Brown,Bridgette,13114A,12/31/15,12/20/13,good,Odessa,TX
+Busey,Selia,14131A,11/30/16,11/17/14,good,El Paso,TX
+Camden,Kelly,11089R,3/31/15,9/23/11,good,Albuquerque,NM
+Campili Stauss,Elena,11093R,3/31/16,12/29/11,good,Santa Fe,NM
+Cassidy,Elizabeth,96307R,3/31/16,3/1/02,good,Santa Fe,NM
+Cleveland,Judah,14125A,3/31/16,8/14/14,good,Las Cruces,NM
+Cockrell,Dawn,04001R,3/31/16,2/2/04,good,Odessa,TX
+,,,,,,Winston,
+Cuthbertson,Hannah,12105R,3/31/15,11/9/12,good,Salem,NC
+,,,,,,Winston,
+Cuthbertson,Ruth M.,12104R,3/31/15,11/9/12,good,Salem,NC
+Darling,Mary,03445R,3/31/15,5/15/03,good,El Paso,TX
+,Cynthia,,,,,,
+Dean-Montano,Maria,13108A,3/31/15,8/15/13,good,T or C,NM
+Duncan,Amy,00399R,3/31/15,4/20/00,good,Gila,NM
+Essenmacher,Joy L.,10078R,3/31/16,12/10/10,good,Los Lunas,NM
+Ettien,A'Maya,10077R,3/31/16,10/19/10,good,El Paso,TX
+Figurski,Kiersten,00405R,3/31/16,4/1/02,good,Taos,NM
+Frazer,Joy P.,08050R,3/31/16,12/9/08,good,Durango,CO
+Frechette-,,,,,,,
+Gutfreund,Jessica,09065R,3/31/15,12/11/09,good,Santa Fe,NM
+Galjour,Reina,09066R,3/31/15,12/11/09,good,Chapel Hill,NC
+Gray,Dianne,82044R,3/31/15,3/17/82,good,La Grande,OR
+Hagan,Angie,02431R,3/31/15,8/9/02,good,El Paso,TX
+Haggard,Myriah,10075R,3/31/16,10/21/10,good,Santa Fe,NM
+Harris,Diane,13112R,3/31/15,12/23/13,good,Rio Rancho,NM
+Hill,Andrea,12098R,3/31/16,6/29/12,good,Albuquerque,NM
+Jacobus,Christine,03443R,3/31/16,5/9/06,good,Santa Fe,NM
+,Cassaundra,,,,,,
+Jah,R.,10076R,3/31/16,11/19/10,good,Cedar Crest,NM
+Johnson,Judy,96351R,3/31/15,11/1/97,good,Omaha,NE
+Johnstun,Julie A.,09063R,3/31/15,9/30/09,good,Rio Rancho,NM
+Kaeck,Dorothy,13115R,3/31/15,12/27/13,good,Taos,NM
+Kaley,Deborah,82045R,3/31/16,3/22/82,good,El Paso,TX
+Kauffman,Ruth,00407R,3/31/16,12/5/00,good,Albuquerque,NM
+Keller,Deborah,00401R,3/31/16,9/27/02,good,Santa Fe,NM
+Kenmore,Alana Joy,11088R,3/31/15,9/23/11,good,El Paso,TX
+Khalsa,Seva,88175R,3/31/15,8/5/87,good,Santa Fe,NM
+Kielpinski,Denise,01417R,3/31/16,12/7/04,good,Rio Rancho,NM
+Koshewa,Connie,04008R,3/31/16,8/27/04,good,Albuquerque,NM
+LeBaron,Adela,14119R,3/31/16,4/21/14,good,El Paso,TX
+LeMone,Kathleen,07029R,3/31/16,12/13/06,good,Las Cruces,NM
+,Ramona,,,,,,
+Ludwig,Ellen,04004R,3/31/15,4/12/04,good,Santa Fe,NM
+,Jillian,,,,,,
+Lynch,Angier,09064R,3/31/15,9/30/09,good,Carmel,CA
+Maillis,Nicole,09060R,3/31/15,7/20/09,good,Taos,NM
+Mann,Sarah,13111A,3/31/15,9/18/13,good,Las Cruces,NM
+,,,,,,Ohkay,
+Marcus,Glenna B.,13106A,3/31/15,3/19/13,good,Owingeh,NM
+McKay,Jaymi,02429R,3/31/16,9/24/04,good,Albuquerque,NM
+McNeil,Krystina,94266R,3/31/16,5/23/93,good,Vancouver,WA
+Moore,Alice C.,11085R,3/31/15,7/8/11,good,El Paso,TX
+Nelson,Juanita,84100R,3/31/15,6/26/85,good,Durango,CO
+Nighswander,Carole,07028R,3/31/16,11/29/06,good,Durango,CO
+Norris,Joan,95297R,3/31/15,12/21/96,good,San Cristobal,NM
+Overton,Hilary,01416R,3/31/15,2/18/03,good,El Paso,TX
+Passalacqua,Sonja,96338R,3/31/16,3/1/97,good,Santa Fe,NM
+Patterson,Sara Jane,12097A,3/31/16,6/7/12,good,Santa Fe,NM
+Peixinho,Michelle,03455R,3/31/16,1/4/08,good,Espanola,NM
+Penwell,Amanda,95307R,3/31/15,10/1/95,good,Paso Robles,CA
+Penwell,Vicki,83069R,3/31/15,1/25/83,good,Paso Robles,CA
+Penwell,Ian,14117R,3/31/16,3/10/14,good,Boise,ID
+Pepper,Barbara,82060R,3/31/16,3/31/90,good,Albuquerque,NM
+Quigley-Trejo,Karen,11082A,3/31/15,3/31/13,good,Albuquerque,NM
+Raphaelson,Sheri,92229R,3/31/16,3/1/92,good,Espanola,NM
+Rische,Heather,02434R,3/31/16,12/4/02,good,Monticello,NM
+Rose,Rebecca,09055R,3/31/15,3/23/09,good,Albuquerque,NM
+Rose,Sunny,14127A,10/31/16,10/6/14,good,Lamy,NM
+Rotondi,Anne,13113R,3/31/15,12/9/15,good,Ignacio,CO
+Sample-,,,,,,,
+Newsham,Eva Marie,14124R,3/31/16,7/22/14,good,Cheney,WA
+Schochet,Julie,96367R,3/31/16,9/1/98,good,El Prado,NM
+Self,Louise A.,14120R,3/31/16,4/21/14,good,Albuquerque,NM
+Shaw,Kathryn,96320R,3/31/16,4/1/98,good,Las Cruces,NM
+Silvey,Salem,13116R,3/31/15,12/27/13,good,Amarillo,TX
+Simmons,Terri,00408R,3/31/16,12/5/00,good,Albuquerque,NM
+Stern,Abigail,14122R,3/31/16,5/27/14,good,Stuarts Draft,VA
+Strache,Salome,14126R,3/31/16,9/22/14,good,Frankenthal,RP
+Swart,Julia,06022R,3/31/16,4/27/06,good,Boise,ID
+Tsosie,Linda,14121A,5/31/16,5/5/14,good,Santa Fe,NM
+VanMersbergen-,,,,,,,
+Toe,Tiffany,11083A,3/31/15,4/30/11,good,Albuquerque,NM
+Wageman,Michelle J.,14129A,10/31/16,10/28/14,good,La Luz,NM
+West,Jennifer,93255R,3/31/15,5/1/93,good,Albuquerque,NM
+,Michelle,,,,,,
+Williams,Louise,14123A,3/31/16,6/3/14,good,Taos,NM
+Williams,Rose A.,14128R,3/31/16,10/28/14,good,El Paso,TX
+York,Consuelo,08049R,3/31/16,8/7/08,good,El Paso,TX
+Alison,Otonya,95302R,3/31/15,10/1/95,good,Vancouver,WA
+Ames,Sara,11092R,3/31/15,12/1/11,good,Las Cruces,NM
+Andrew,Martha,96368R,3/31/15,9/1/98,good,Taos,NM
+Arnold,Lynn,89204R,3/31/16,9/25/89,good,Santa Teresa,NM
+Bender,Susan,12103R,3/31/15,11/9/12,good,Orting,WA
+Black,Merna,96366R,3/31/16,8/1/98,good,Carlsbad,NM
+Bolle,Tanja,95284R,3/31/16,2/7/95,good,Santa Fe,NM
+Borrego,Rebecca,14118R,3/31/16,4/23/14,good,Taos,NM
+Bourdeau,Rifka Madrona,09067R,3/31/15,12/28/09,good,Taos,NM
+Brown,Bridgette,13114A,12/31/15,12/20/13,good,Odessa,TX
+Camden,Kelly,11089R,3/31/15,9/23/11,good,Albuquerque,NM
+Campili Stauss,Elena,11093R,3/31/16,12/29/11,good,Santa Fe,NM
+Cassidy,Elizabeth,96307R,3/31/16,3/1/02,good,Santa Fe,NM
+Cleveland,Judah,14125A,3/31/16,8/14/14,good,Las Cruces,NM
+Cockrell,Dawn,04001R,3/31/16,2/2/04,good,Odessa,TX
+Cuthbertson,Hannah,12105R,3/31/15,11/9/12,good,Winston,NC
+Cuthbertson,Ruth M.,12104R,3/31/15,11/9/12,good,Winston Salem,NC
+Darling,Mary,03445R,3/31/15,5/15/03,good,El Paso,TX
+Dean-Montano,Cynthia Maria,13108A,3/31/15,8/15/13,good,T or C,NM
+Duncan,Amy,00399R,3/31/15,4/20/00,good,Gila,NM
+Essenmacher,Joy L.,10078R,3/31/16,12/10/10,good,Los Lunas,NM
+Ettien,A'Maya,10077R,3/31/16,10/19/10,good,El Paso,TX
+Figurski,Kiersten,00405R,3/31/16,4/1/02,good,Taos,NM
+Frazer,Joy P.,08050R,3/31/16,12/9/08,good,Durango,CO
+Frechette-Gutfreund,Jessica,09065R,3/31/15,12/11/09,good,Santa Fe,NM
+Galjour,Reina,09066R,3/31/15,12/11/09,good,Chapel Hill,NC
+Gray,Dianne,82044R,3/31/15,3/17/82,good,La Grande,OR
+Hagan,Angie,02431R,3/31/15,8/9/02,good,El Paso,TX
+Haggard,Myriah,10075R,3/31/16,10/21/10,good,Santa Fe,NM
+Harris,Diane,13112R,3/31/15,12/23/13,good,Rio Rancho,NM
+Hill,Andrea,12098R,3/31/16,6/29/12,good,Albuquerque,NM
+Jacobus,Christine,03443R,3/31/16,5/9/06,good,Santa Fe,NM
+Jah,Cassaundra,10076R,3/31/16,11/19/10,good,Cedar Crest,NM
+Johnson,Judy,96351R,3/31/15,11/1/97,good,Omaha,NE
+Johnstun,Julie A.,09063R,3/31/15,9/30/09,good,Rio Rancho,NM
+Kaeck,Dorothy,13115R,3/31/15,12/27/13,good,Taos,NM
+Kaley,Deborah,82045R,3/31/16,3/22/82,good,El Paso,TX
+Kauffman,Ruth,00407R,3/31/16,12/5/00,good,Albuquerque,NM
+Keller,Deborah,00401R,3/31/16,9/27/02,good,Santa Fe,NM
+Kenmore,Alana Joy,11088R,3/31/15,9/23/11,good,El Paso,TX
+Khalsa,Seva,88175R,3/31/15,8/5/87,good,Santa Fe,NM
+Kielpinski,Denise,01417R,3/31/16,12/7/04,good,Rio Rancho,NM
+Koshewa,Connie,04008R,3/31/16,8/27/04,good,Albuquerque,NM
+LeBaron,Adela,14119R,3/31/16,4/21/14,good,El Paso,TX
+LeMone,Kathleen,07029R,3/31/16,12/13/06,good,Las Cruces,NM
+Ludwig,Ramona Ellen,04004R,3/31/15,4/12/04,good,Santa Fe,NM
+Lynch,Jillian Angier,09064R,3/31/15,9/30/09,good,Carmel,CA
+Maillis,Nicole,09060R,3/31/15,7/20/09,good,Taos,NM
+Mann,Sarah,13111A,3/31/15,9/18/13,good,Las Cruces,NM
+Marcus,Glenna B.,13106A,3/31/15,3/19/13,good,Ohkay,NM
+McKay,Jaymi,02429R,3/31/16,9/24/04,good,Albuquerque,NM
+McNeil,Krystina,94266R,3/31/16,5/23/93,good,Vancouver,WA
+Moore,Alice C.,11085R,3/31/15,7/8/11,good,El Paso,TX
+Nelson,Juanita,84100R,3/31/15,6/26/85,good,Durango,CO
+Nighswander,Carole,07028R,3/31/16,11/29/06,good,Durango,CO
+Norris,Joan,95297R,3/31/15,12/21/96,good,San Cristobal,NM
+Overton,Hilary,01416R,3/31/15,2/18/03,good,El Paso,TX
+Passalacqua,Sonja,96338R,3/31/16,3/1/97,good,Santa Fe,NM
+Patterson,Sara Jane,12097A,3/31/16,6/7/12,good,Santa Fe,NM
+Peixinho,Michelle,03455R,3/31/16,1/4/08,good,Espanola,NM
+Penwell,Amanda,95307R,3/31/15,10/1/95,good,Paso Robles,CA
+Penwell,Vicki,83069R,3/31/15,1/25/83,good,Paso Robles,CA
+Penwell,Ian,14117R,3/31/16,3/10/14,good,Boise,ID
+Pepper,Barbara,82060R,3/31/16,3/31/90,good,Albuquerque,NM
+Quigley-Trejo,Karen,11082A,3/31/15,3/31/13,good,Albuquerque,NM
+Raphaelson,Sheri,92229R,3/31/16,3/1/92,good,Espanola,NM
+Rische,Heather,02434R,3/31/16,12/4/02,good,Monticello,NM
+Rose,Sunny,14127A,10/31/16,10/6/14,good,Lamy,NM
+Rose,Rebecca,09055R,3/31/15,3/23/09,good,Albuquerque,NM
+Rotondi,Anne,13113R,3/31/15,12/9/15,good,Ignacio,CO
+Sample-Newsham,Eva Marie,14124R,3/31/16,7/22/14,good,Cheney,WA
+Schochet,Julie,96367R,3/31/16,9/1/98,good,El Prado,NM
+Self,Louise A.,11086A,3/31/16,4/21/14,good,Albuquerque,NM
+Shaw,Kathryn,96320R,3/31/16,4/1/98,good,Las Cruces,NM
+Silvey,Salem,13116R,3/31/15,12/27/13,good,Amarillo,TX
+Simmons,Terri,00408R,3/31/16,12/5/00,good,Albuquerque,NM
+Stern,Abigail,14122R,3/31/16,5/27/14,good,Stuarts Draft,VA
+Strache,Salome,14126R,3/31/16,9/22/14,good,Frankenthal,RP
+Swart,Julia,06022R,3/31/16,4/27/06,good,Boise,ID
+Tsosie,Linda,14121A,5/31/16,5/5/14,good,Santa Fe,NM
+VanMersbergen,Tiffany,11083A,3/31/15,4/30/11,good,Albuquerque,NM
+Wageman,Michelle J.,14129A,10/31/16,10/28/14,good,La Luz,NM
+West,Jennifer,93255R,3/31/15,5/1/93,good,Albuquerque,NM
+Williams,Michelle Louise,14123A,3/31/16,6/3/14,good,Taos,NM
+Williams,Rose A.,14128R,3/31/16,10/28/14,good,El Paso,TX
+York,Consuelo,08049R,3/31/16,8/7/08,good,El Paso,TX
+Alison,Otonya,95302R,3/31/15,10/1/95,good,Vancouver,WA
+Ames,Sara,11092R,3/31/15,12/1/11,good,Las Cruces,NM
+,,,,,,Ranchos de,
+Andrew,Martha,96368R,3/31/15,9/1/98,good,Taos,NM
+Arnold,Lynn,89204R,3/31/16,9/25/89,good,Santa Teresa,NM
+Bender,Susan,12103R,3/31/15,11/9/12,good,Orting,WA
+Black,Merna,96366R,3/31/16,8/1/98,good,Carlsbad,NM
+Bolle,Tanja,95284R,3/31/16,2/7/95,good,Santa Fe,NM
+Borrego,Rebecca,14118R,3/31/16,2/11/14,good,Taos,NM
+Bourdeau,Rifka Madrona,09067R,3/31/15,12/28/09,good,Taos,NM
+Brown,Bridgette,13114A,12/31/15,12/20/13,good,Odessa,TX
+Camden,Kelly,11089R,3/31/15,9/23/11,good,Albuquerque,NM
+Campili Stauss,Elena,11093R,3/31/16,12/29/11,good,Santa Fe,NM
+Cassidy,Elizabeth,96307R,3/31/16,3/1/02,good,Santa Fe,NM
+Cleveland,Judah,14125A,3/31/16,8/14/14,good,Las Cruces,NM
+Cockrell,Dawn,04001R,3/31/16,2/2/04,good,Odessa,TX
+Cuthbertson,Hannah,12105R,3/31/15,11/9/12,good,Winston Salem,NC
+Cuthbertson,Ruth M.,12104R,3/31/15,11/9/12,good,Winston Salem,NC
+Darling,Mary,03445R,3/31/15,5/15/03,good,El Paso,TX
+Dean-Montano,Cynthia Maria,13108A,3/31/15,8/15/13,good,T or C,NM
+Duncan,Amy,00399R,3/31/15,4/20/00,good,Gila,NM
+Essenmacher,Joy L.,10078R,3/31/16,12/10/10,good,Los Lunas,NM
+Ettien,A'Maya,10077R,3/31/16,10/19/10,good,El Paso,TX
+Figurski,Kiersten,00405R,3/31/16,4/1/02,good,Taos,NM
+Frazer,Joy P.,08050R,3/31/16,12/9/08,good,Durango,CO
+Frechette,Jessica,09065R,3/31/15,12/11/09,good,Santa Fe,NM
+Galjour,Reina,09066R,3/31/15,12/11/09,good,Chapel Hill,NC
+Gray,Dianne,82044R,3/31/15,3/17/82,good,La Grande,OR
+Hagan,Angie,02431R,3/31/15,8/9/02,good,El Paso,TX
+Haggard,Myriah,10075R,3/31/16,10/21/10,good,Santa Fe,NM
+Harris,Diane,13112R,3/31/15,12/23/13,good,Rio Rancho,NM
+Hill,Andrea,12098R,3/31/16,6/29/12,good,Albuquerque,NM
+Jacobus,Christine,03443R,3/31/16,5/9/06,good,Santa Fe,NM
+Jah,Cassaundra R.,10076R,3/31/16,11/19/10,good,Cedar Crest,NM
+Johnson,Judy,96351R,3/31/15,11/1/97,good,Omaha,NE
+Johnstun,Julie A.,09063R,3/31/15,9/30/09,good,Rio Rancho,NM
+Kaeck,Dorothy,13115R,3/31/15,12/27/13,good,Taos,NM
+Kaley,Deborah,82045R,3/31/16,3/22/82,good,El Paso,TX
+Keller,Deborah,00401R,3/31/16,9/27/02,good,Santa Fe,NM
+Kenmore,Alana Joy,11088R,3/31/15,9/23/11,good,El Paso,TX
+Khalsa,Seva,88175R,3/31/15,8/5/87,good,Santa Fe,NM
+Kielpinski,Denise,01417R,3/31/16,12/7/04,good,Rio Rancho,NM
+Koshewa,Connie,04008R,3/31/16,8/27/04,good,Albuquerque,NM
+LeBaron,Adela,14119R,3/31/16,4/21/14,good,El Paso,TX
+LeMone,Kathleen,07029R,3/31/16,12/13/06,good,Las Cruces,NM
+Ludwig,Ramona Ellen,04004R,3/31/15,4/12/04,good,Santa Fe,NM
+Lynch,Jillian Angier,09064R,3/31/15,9/30/09,good,Carmel,CA
+Maillis,Nicole,09060R,3/31/15,7/20/09,good,Taos,NM
+Mann,Sarah,13111A,3/31/15,9/18/13,good,Las Cruces,NM
+Marcus,Glenna B.,13106A,3/31/15,3/19/13,good,Ohkay Owingeh,NM
+McKay,Jaymi,02429R,3/31/16,9/24/04,good,Albuquerque,NM
+McNeil,Krystina,94266R,3/31/16,5/23/93,good,Vancouver,WA
+Moore,Alice C.,11085R,3/31/15,7/8/11,good,El Paso,TX
+Nelson,Juanita,84100R,3/31/15,6/26/85,good,Durango,CO
+Nighswander,Carole,07028R,3/31/16,11/29/06,good,Durango,CO
+Norris,Joan,95297R,3/31/15,12/21/96,good,San Cristobal,NM
+Overton,Hilary,01416R,3/31/15,2/18/03,good,El Paso,TX
+Passalacqua,Sonja,96338R,3/31/16,3/1/97,good,Santa Fe,NM
+Peixinho,Michelle,03455R,3/31/16,1/4/08,good,Espanola,NM
+Penwell,Amanda,95307R,3/31/15,10/1/95,good,Paso Robles,CA
+Penwell,Vicki,83069R,3/31/15,1/25/83,good,Paso Robles,CA
+Penwell,Ian,14117R,3/31/16,3/10/14,good,Boise,ID
+Pepper,Barbara,82060R,3/31/16,3/31/90,good,Albuquerque,NM
+Quigley-Trejo,Karen,11082A,3/31/15,3/31/13,good,Albuquerque,NM
+Raphaelson,Sheri,92229R,3/31/16,3/1/92,good,Espanola,NM
+Rische,Heather,02434R,3/31/16,12/4/02,good,Monticello,NM
+Rose,Rebecca,09055R,3/31/15,3/23/09,good,Albuquerque,NM
+Rotondi,Anne,13113R,3/31/15,12/9/15,good,Ignacio,CO
+Sample,Eva Marie,14124R,3/31/16,7/22/14,good,Cheney,WA
+Schochet,Julie,96367R,3/31/16,9/1/98,good,El Prado,NM
+Self,Louise A.,11086A,3/31/16,4/21/14,good,Albuquerque,NM
+Shaw,Kathryn,96320R,3/31/16,4/1/98,good,Las Cruces,NM
+Silvey,Salem,13116R,3/31/15,12/27/13,good,Amarillo,TX
+Simmons,Terri,00408R,3/31/16,12/5/00,good,Albuquerque,NM
+Stern,Abigail,14122R,3/31/16,5/27/14,good,Stuarts Draft,VA
+Strache,Salome,14126R,3/31/16,9/22/14,good,Frankenthal,RP
+Swart,Julia,06022R,3/31/16,4/27/06,good,Boise,ID
+Tsosie,Linda,14121A,5/5/16,5/5/14,good,Santa Fe,NM
+VanMersbergen,Tiffany,11083A,3/31/15,4/30/11,good,Albuquerque,NM
+West,Jennifer,93255R,3/31/15,5/1/93,good,Albuquerque,NM
+Williams,Michelle Louise,14123A,3/31/16,6/3/14,good,Taos,NM
+York,Consuelo,08049R,3/31/16,8/7/08,good,El Paso,TX
+Alison,Otonya,95302R,3/31/15,10/1/95,good,Vancouver,WA
+Ames,Sara,11092R,3/31/15,12/1/11,good,Las Cruces,NM
+Andrew,Martha,96368R,3/31/15,9/1/98,good,Ranchos de Taos,NM
+Arnold,Lynn,89204R,3/31/16,9/25/89,good,Santa Teresa,NM
+Bender,Susan,12103R,3/31/15,11/9/12,good,Orting,WA
+Black,Merna,96366R,3/31/16,8/1/98,good,Carlsbad,NM
+Bolle,Tanja,95284R,3/31/16,2/7/95,good,Santa Fe,NM
+Borrego,Rebecca,14118R,3/31/16,2/11/14,good,Ranchos De Taos,NM
+Bourdeau,Rifka Madrona,09067R,3/31/15,12/28/09,good,Taos,NM
+Brown,Bridgette,13114A,12/31/15,1/28/14,good,Odessa,TX
+Camden,Kelly,11089R,3/31/15,9/23/11,good,Albuquerque,NM
+Campili Stauss,Elena,11093R,3/31/16,12/29/11,good,Santa Fe,NM
+Cassidy,Elizabeth,96307R,3/31/16,3/1/02,good,Santa Fe,NM
+Cockrell,Dawn,04001R,3/31/16,2/2/04,good,Odessa,TX
+Cuthbertson,Hannah,12105R,3/31/15,11/9/12,good,Winston Salem,NC
+Cuthbertson,Ruth M.,12104R,3/31/15,11/9/12,good,Winston Salem,NC
+Darling,Mary,03445R,3/31/15,5/15/03,good,El Paso,TX
+Dean-Montano,Cynthia Maria,13108A,3/31/15,8/15/13,good,T or C,NM
+Duncan,Amy,00399R,3/31/15,4/20/00,good,Gila,NM
+Essenmacher,Joy L.,10078R,3/31/16,12/10/10,good,Los Lunas,NM
+Ettien,A'Maya,10077R,3/31/16,10/19/10,good,El Paso,TX
+Figurski,Kiersten,00405R,3/31/16,4/1/02,good,Taos,NM
+Frazer,Joy P.,08050R,3/31/16,12/9/08,good,Durango,CO
+Frechette-Gutfreund,Jessica,09065R,3/31/15,12/11/09,good,Santa Fe,NM
+Galjour,Reina,09066R,3/31/15,12/11/09,good,Chapel Hill,NC
+Gray,Dianne,82044R,3/31/15,3/17/82,good,La Grande,OR
+Hagan,Angie,02431R,3/31/15,8/9/02,good,El Paso,TX
+Haggard,Myriah,10075R,3/31/16,10/21/10,good,Santa Fe,NM
+Harris,Diane,13112R,3/31/15,12/23/13,good,Rio Rancho,NM
+Hill,Andrea,12098R,3/31/16,6/29/12,good,Albuquerque,NM
+Jacobus,Christine,03443R,3/31/16,5/9/06,good,Santa Fe,NM
+Jah,Cassaundra R.,10076R,3/31/16,11/19/10,good,Cedar Crest,NM
+Johnson,Judy,96351R,3/31/15,11/1/97,good,Omaha,NE
+Johnstun,Julie A.,09063R,3/31/15,9/30/09,good,Rio Rancho,NM
+Kaeck,Dorothy,13115R,3/31/15,12/27/13,good,Ranchos De Taos,NM
+Kaley,Deborah,82045R,3/31/16,3/22/82,good,El Paso,TX
+Keller,Deborah,00401R,3/31/16,9/27/02,good,Santa Fe,NM
+Kenmore,Alana Joy,11088R,3/31/15,9/23/11,good,El Paso,TX
+Khalsa,Seva,88175R,3/31/15,8/5/87,good,Santa Fe,NM
+Kielpinski,Denise,01417R,3/31/16,12/7/04,good,Rio Rancho,NM
+Koshewa,Connie,04008R,3/31/16,8/27/04,good,Albuquerque,NM
+LeBaron,Adela,14119R,3/31/16,4/21/14,good,El Paso,TX
+LeMone,Kathleen,07029R,3/31/16,12/13/06,good,Las Cruces,NM
+Ludwig,Ramona Ellen,04004R,3/31/15,4/12/04,good,Santa Fe,NM
+Lynch,Jillian Angier,09064R,3/31/15,9/30/09,good,Carmel,CA
+Maillis,Nicole,09060R,3/31/15,7/20/09,good,Taos,NM
+Mann,Sarah,13111A,3/31/15,9/18/13,good,Las Cruces,NM
+Marcus,Glenna B.,13106A,3/31/15,3/20/13,good,Ohkay Owingeh,NM
+McKay,Jaymi,02429R,3/31/16,9/24/04,good,Albuquerque,NM
+McNeil,Krystina,94266R,3/31/16,5/23/93,good,Vancouver,WA
+Moore,Alice C.,11085R,3/31/15,7/8/11,good,El Paso,TX
+Nelson,Juanita,84100R,3/31/15,6/26/85,good,Durango,CO
+Nighswander,Carole,07028R,3/31/16,11/29/06,good,Durango,CO
+Norris,Joan,95297R,3/31/15,12/21/96,good,San Cristobal,NM
+Overton,Hilary,01416R,3/31/15,2/18/03,good,El Paso,TX
+Passalacqua,Sonja,96338R,3/31/16,3/1/97,good,Santa Fe,NM
+Peixinho,Michelle,03455R,3/31/16,1/4/08,good,Espanola,NM
+Penwell,Amanda,95307R,3/31/15,10/1/95,good,Paso Robles,CA
+Penwell,Vicki,83069R,3/31/15,1/25/83,good,Paso Robles,CA
+Penwell,Ian,14117R,3/31/16,3/10/14,good,Boise,ID
+Pepper,Barbara,82060R,3/31/16,3/31/90,good,Albuquerque,NM
+Quigley-Trejo,Karen,11082A,3/31/15,3/31/13,good,Albuquerque,NM
+Rische,Heather,02434R,3/31/16,12/4/02,good,Monticello,NM
+Rose,Rebecca,09055R,3/31/15,3/23/09,good,Albuquerque,NM
+Rotondi,Anne,13113R,3/31/15,12/9/15,good,Ignacio,CO
+Schochet,Julie,96367R,3/31/16,9/1/98,good,El Prado,NM
+Self,Louise A.,11086A,3/31/16,4/21/14,good,Albuquerque,NM
+Shaw,Kathryn,96320R,3/31/16,4/1/98,good,Las Cruces,NM
+Silvey,Salem,13116R,3/31/15,12/27/13,good,Amarillo,TX
+Simmons,Terri,00408R,3/31/16,12/5/00,good,Albuquerque,NM
+Stern,Abigail,14122R,3/31/16,5/27/14,good,Stuarts Draft,VA
+VanMersbergen,Tiffany,11083A,3/31/15,4/29/11,good,Albuquerque,NM
+West,Jennifer,93255R,3/31/15,5/1/93,good,Albuquerque,NM
+York,Consuelo,08049R,3/31/16,8/7/08,good,El Paso,TX
