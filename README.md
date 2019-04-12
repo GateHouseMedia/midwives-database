@@ -14,7 +14,7 @@ I'm new to coding, so many of these are first or early attempts and may read a l
 
 ## Acknowledgments
 
-Speaking of being new to coding, shout-out to [Dak Le](https://github.com/dakle), [Mike Stucka](https://github.com/stucka) and [Dan Keemahill](https://github.com/dankeemahill) for scraping assistance and [Daphne Chen](https://twitter.com/DaphneChen_) for helping write scripts to clean and compile.
+Speaking of being new to coding, shout-out to [Dak Le](https://github.com/dakle), [Mike Stucka](https://github.com/stucka) and [Dan Keemahill](https://github.com/dankeemahill) for scraping assistance and [Daphne Chen](https://github.com/daphnechen93) for helping write scripts to clean and compile.
 
 ## Contact me
 
