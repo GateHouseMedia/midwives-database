@@ -4,9 +4,9 @@ Code for scraping, cleaning and compiling the [national database of midwives](ht
 
 Because there's no centralized way to for mothers to background their midwife providers, we decided to create our own. 
 
-We scraped or requested data from all 50 states and the District of Columbia for licensed certified nurse midwives and/or midwives. In states that don't license non-nurse midwives, we collected lists from state midwife organizations, if available. You can read more about our methodology [here](http://gatehousenews.com/failuretodeliver/methodology/). 
+We scraped or requested data from all 50 states and the District of Columbia for licensed certified nurse midwives and/or midwives. In states that don't license non-nurse midwives, we collected lists from state midwife organizations, if available. 
 
-We then cleaned and compiled the data in R. 
+We then cleaned and compiled the data in R. You can read more about our methodology [here](http://gatehousenews.com/failuretodeliver/methodology/). 
 
 ## Worth noting
 
